@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo](https://github.com/deborah159/huddle-landing-page-with-alternating-feature-blocks)
-- Live Site URL: [https://deborah159.github.io/huddle-landing-page-with-alternating-feature-blocks/](https://deborah159.github.io/huddle-landing-page-with-alternating-feature-blocks/)
+- Solution URL: [GitHub repo](https://github.com/Deborah159/huddle-landing-page-with-alternating-feature-blocks-main)
+- Live Site URL: [https://deborah159.github.io/huddle-landing-page-with-alternating-feature-blocks-main/](https://deborah159.github.io/huddle-landing-page-with-alternating-feature-blocks-main/)
 
 ## My process
 
